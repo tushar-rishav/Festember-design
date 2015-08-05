@@ -1,6 +1,6 @@
-/**/
+/*
 @import url(//fonts.googleapis.com/css?family=Signika:400,300,600,700);
-/* 'Signika', sans-serif */
+ 'Signika', sans-serif */
 
 @import "../css/reset.css";
 @import "../css/superfish.css";
@@ -203,7 +203,11 @@ header h1 a img {
 	text-align: center;
 	position: relative;
 }
-
+.spcl {
+	
+	text-align: left;
+	
+}
 .content:after {
 	display: block;
 	position: absolute;
@@ -244,7 +248,7 @@ border-color: #334960 transparent transparent transparent;
 }
 
 #page1 {
-	padding-bottom: 191px;
+	padding-bottom: 30%;
 }
 
 header.page1 .men .hover{
@@ -288,7 +292,7 @@ header.page2 {
 }
 
 header.page2 .hover {
-	background-color: #e6655e;
+	background-color: #2AAE96;
 }
 
 
@@ -303,7 +307,7 @@ header.page3{
 }
 
 header.page3 .hover {
-	background-color: #46dcc7;
+	background-color: black;
 }
 
 #page4 {
@@ -327,7 +331,7 @@ header.page5{
 }
 
 header.page5 .hover {
-	background-color: #37637f;
+	background-color: #6C87A2;
 }
 
 .content {
