@@ -26,7 +26,7 @@
                         <div class="form-group">
                             <label class="control-label col-sm-4" for="name">Name:</label>
                             <div class="col-sm-8">
-                                <input type="text" name="name" class="form-control" id="name" pattern="[A-Z,a-z]{3,}"
+                                <input type="text" name="name" class="form-control" id="name"
                                        placeholder="Enter your full name" required="required"/>
                             </div>
                         </div>

@@ -52,7 +52,7 @@
             $city = test($_POST['city']);
             $phone_no = test($_POST['phone_no']);
             $email = test($_POST['email']);
-            $password = md5(test($_POST['password']));
+            $password = test($_POST['password']); //md5(test($_POST['password']));
             $qualified = 1;
             $file_size=$_FILES['id_image']['size'];
             $file_type=$_FILES['id_image']['type'];

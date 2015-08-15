@@ -14,7 +14,7 @@
         if(!empty($_POST['unique_id']) && !empty($_POST['password']) && !empty($_POST['description']))
         {
             $id = test($_POST['unique_id']);
-            $password = md5(test($_POST['password']));
+            $password = test($_POST['password']);//md5(test($_POST['password']));
             $description = test($_POST['description']);
             $round_no = ROUND_NUMBER;
             $query = "SELECT qualified FROM $participants_table WHERE unique_num='$id' AND password='$password'";

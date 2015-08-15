@@ -257,8 +257,8 @@ session_start();
                 <a href="register.php" style="margin-left:10px;"  class="btn btn-info btn-lg" >Register</a>
             </div>
             <div class="socials" style="position:relative;top:-5px;">
-                <a href="https://www.facebook.com/festember" style="width:40px;"><i style="color:white;" class="fa fa-3x fa-facebook"></i></a>
-                <a href="https://twitter.com/festember" style="width:40px;" ><i style="color:white;" class="fa fa-3x fa-twitter"></i></a>
+                <a href="https://www.facebook.com/festember" style="width:80px;"><i style="color:white;" class="fa fa-3x fa-facebook"></i></a>
+                <a href="https://twitter.com/festember" style="width:80px;" ><i style="color:white;" class="fa fa-3x fa-twitter"></i></a>
 
             </div>
         </div>
@@ -271,12 +271,12 @@ session_start();
             <div class="wrap-col">
                 <div class="slogan" style=" background-color:rgba(147, 183, 162, 0.69);width:100%;height:300px; ">
                     <h3 data-sr="enter left, hustle 20px,mobile true,reset true" >
-                        <span>Festember ’15</span>
+                        <span>Festember'15</span>
                     </h3>
                     <div class="text1" style="padding:10px;">
                         <h4  style="font-size:24px; line-height:27px;"><span>Festember brings to you a competition assured to test your designing skills over four fiercely fought rounds.
-								With their varied goals and quirky restrictions, it’s sure to unleash the creativity within you.
-								Clear the first three online rounds, and there’s just one on-site round between you and the coveted designer’s prize.
+								With their varied goals and quirky restrictions, it's sure to unleash the creativity within you.
+								Clear the first three online rounds, and there's just one on-site round between you and the coveted designer's prize.
 								Come and be a part of our grand design!</span></h4>
                     </div>
                 </div>
@@ -300,15 +300,15 @@ session_start();
                 IMPORTANT DATES THAT YOU NEED TO KEEP TRACK OF
             </p>
             <ol style="font-size:20px;line-space:10px;">
-                <li><span class="dates">13th August</span> – Round 1 of the event</li>
-                <li><span class="dates">15th August</span>  – Round 1 deadline</li>
-                <li><span class="dates">20th August</span>  – Round 1 results</li>
-                <li><span class="dates">23rd August</span>  – Round 2 of the event</li>
-                <li><span class="dates">30th August</span>  – Round 2 deadline</li>
-                <li><span class="dates">5th September</span>  – Round 2 results</li>
-                <li><span class="dates">8th September</span>  – Round 3 of the event</li>
-                <li><span class="dates">13th September</span>  – Round 3 deadline</li>
-                <li><span class="dates">16th September</span>  – Round 3 results</li>
+                <li><span class="dates">13th August</span> - Round 1 of the event</li>
+                <li><span class="dates">15th August</span>  - Round 1 deadline</li>
+                <li><span class="dates">20th August</span>  - Round 1 results</li>
+                <li><span class="dates">23rd August</span>  - Round 2 of the event</li>
+                <li><span class="dates">30th August</span>  - Round 2 deadline</li>
+                <li><span class="dates">5th September</span>  - Round 2 results</li>
+                <li><span class="dates">8th September</span>  - Round 3 of the event</li>
+                <li><span class="dates">13th September</span>  - Round 3 deadline</li>
+                <li><span class="dates">16th September</span>  - Round 3 results</li>
                 <li>Finals shall be held during Festember <span class="dates">24-27 September</span></li>
 
             </ol>
@@ -343,13 +343,13 @@ session_start();
                         <li> <i class="fa fa-1x  fa-circle"></i>&nbsp;The designs submitted must be a genuine, original work of the participant. </li>
                         <li> <i class="fa fa-1x  fa-circle"></i>&nbsp;The stock images that are provided by us are only to be used, failing which will lead to disqualification.</li>
                         <li> <i class="fa fa-1x fa-circle"></i>&nbsp;Designs which contain any obscene or inappropriate content will be disqualified.</li>
-                        <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;The copyrights of the designs will stay with the designer. However, Festember has the right to use the designs for publicity or other &nbsp;&nbsp;&nbsp;activities.</li>
+                        <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;The copyrights of the designs will stay with the designer. However, Festember has the right to use the designs for publicity or other activities.</li>
                         <li><i class="fa fa-1x  fa-circle"></i>&nbsp;Under any circumstance, entries once submitted cannot be taken back for modifications.</li>
                         <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;Requests for extending the deadline will not be entertained at any cost.</li>
-                        <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;The judges’ and organizers’ decision will be final and binding. No discussion or correspondence will be entertained regarding the&nbsp; &nbsp;&nbsp;same.</li>
-                        <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;All submissions have to be made here.</li>
+                        <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;The judges' and organizers' decision will be final and binding. No discussion or correspondence will be entertained regarding the same.</li>
+                        <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;All submissions have to be made here</li>
                         <li> <i class="fa fa-1x  fa-circle"></i>&nbsp;Please read the design specifications very carefully. Failing to adhere with the format will lead to disqualification.</li>
-                        <li> <i class="fa fa-1x  fa-circle"></i>&nbsp;The submitted designs should not be posted in any social media platforms till the competition is over.</li>
+                        <li> <i class="fa fa-1x  fa-circle"></i>&nbsp;The submitted designs should not be posted in any social media platforms till the competition is over</li>
                         <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;Participants are however allowed to share the images when they are uploaded to Facebook by the organizers.</li>
                         <li> <i class="fa  fa-1x fa-circle"></i>&nbsp;Anyone not adhering to the above rules will be disqualified without any prior notice.</li>
                         <li><i class="fa  fa-1x fa-circle"></i> &nbsp;All ENTRIES SUBMITTED MUST BE IN JPEG FORMAT ONLY AND THE FILE SIZE SHOULD NOT EXCEED <b >15 MB</b></li>
