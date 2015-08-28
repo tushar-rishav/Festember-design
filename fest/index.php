@@ -425,18 +425,11 @@ session_start();
         </div>
     </div>
 
-    <footer>
-        <div class="zerogrid" >
-            <div class="col-full">
-                <div class="wrap-col">
-
-                    <div class="copy" style="text-align:center;">
-
-                        &copy;Festember
-                    </div>
-                </div>
-            </div>
-        </div>
+     <footer>
+                       <div class="copy" style="text-align:center;color:blue;z-index:9999;">
+                        Developed by <a style="color: red !important;" href="http://delta.nitt.edu/" target="_blank">Delta Force</a><br>
+                       </div>
+  
     </footer>
 </div>
 <script src="js/scrollReveal.js"></script>
